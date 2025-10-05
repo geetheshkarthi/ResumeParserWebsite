@@ -42,7 +42,7 @@ The Automata-Based NER system provides a fully functional web portal to parse re
 The system follows a simple pipeline to process resumes and extract entities.
 
 *Your methodology diagram will be displayed here.*
-![Methodology Diagram](Screenshot 2025-10-05 231727.png)
+![Methodology Diagram](Methadology.png)
 
 ---
 ### 🛠 Application and Tools Used
